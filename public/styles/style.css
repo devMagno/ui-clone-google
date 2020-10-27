@@ -70,3 +70,36 @@ button {
   right: 0;
   top: 0;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  padding: 56px 8px 0;
+  align-items: center;
+}
+
+.content__logo {
+  height: 56px;
+}
+
+.content__search {
+  margin-top: 18px;
+  width: 100%;
+  max-width: 736px;
+  padding: 7px 20px 6px 20px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.87);
+  background: transparent;
+  outline: none;
+  border-radius: 25px;
+  border: 1px solid #DADCE0;
+}
+.content__offer {
+  margin-top: 24px;
+  font-size: 13px;
+  padding: 6px 12px;
+}
+.content__offer a {
+  text-decoration: none;
+  color: #1967d2;
+}
