@@ -103,3 +103,35 @@ button {
   text-decoration: none;
   color: #1967d2;
 }
+
+.footer {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  background: #F2F2F2;
+}
+.footer__section:not(:first-child) {
+  border-top: 1px solid #E4E4E4;
+}
+.footer__location {
+  font-size: 15px;
+  color: #5F6368;
+  padding: 10px 12px;
+}
+.footer__links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  padding: 10px;
+}
+.footer__links a {
+  text-decoration: none;
+  color: #5F6368;
+}
+.footer__links a:hover {
+  text-decoration: underline;
+}
+.footer__links a:not(:first-child) {
+  margin-left: 27px;
+}
