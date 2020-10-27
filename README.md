@@ -1,6 +1,6 @@
 # UI Clone: Google 🔎
 <p align="center">
-	
+<img src="https://i.imgur.com/67rcyHB.png" alt="UI Clone: Google" title="UI Clone: Google">
 </p>
 
 ## 📖 Sobre   
