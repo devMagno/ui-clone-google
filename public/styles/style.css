@@ -103,6 +103,28 @@ body {
   border-radius: 25px;
   border: 1px solid #DADCE0;
 }
+.content__buttons {
+  margin-top: 30px;
+}
+.content__buttons a {
+  text-decoration: none;
+  color: #5F6368;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+.content__buttons a:not(:first-child) {
+  margin-left: 15px;
+}
+.content__buttons a:hover {
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-color: #f8f8f8;
+  border: 1px solid #c6c6c6;
+  color: #222;
+}
 .content__offer {
   margin-top: 24px;
   font-size: 13px;
@@ -111,6 +133,9 @@ body {
 .content__offer a {
   text-decoration: none;
   color: #1967d2;
+}
+.content__offer a:hover {
+  text-decoration: underline;
 }
 
 .footer {
@@ -151,5 +176,10 @@ body {
   }
   .content__logo {
     height: 100px;
+  }
+}
+@media screen and (max-width: 360px) {
+  .content__buttons {
+    display: none;
   }
 }
