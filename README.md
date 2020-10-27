@@ -37,4 +37,4 @@ Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.vi
 O projeto está sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/devMagno/ui-clone-google/blob/main/LICENSE).
 
 ---
-**Desenvolvido com 🤍 por [Guilherme Magno](https://github.com/devmagno/).**
+**Desenvolvido com ❤️ por [Guilherme Magno](https://github.com/devmagno/).**
