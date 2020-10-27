@@ -94,8 +94,8 @@ body {
 .content__search {
   margin-top: 18px;
   width: 100%;
-  max-width: 736px;
-  padding: 7px 20px 6px 20px;
+  max-width: 600px;
+  padding: 10px 20px 10px 20px;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.87);
   background: transparent;
@@ -103,6 +103,10 @@ body {
   border-radius: 25px;
   border: 1px solid #DADCE0;
 }
+.content__search:hover {
+  box-shadow: 0 1px 6px rgba(32,33,36,.28);
+}
+
 .content__buttons {
   margin-top: 30px;
 }
