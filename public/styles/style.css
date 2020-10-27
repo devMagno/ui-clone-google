@@ -8,4 +8,65 @@ input,
 button {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  height: 48px;
+  width: 100%;
+  align-items: center;
+}
+
+.menu__section {
+  display: flex;
+  align-items: center;
+}
+
+.menu__section.left .menu__icon{
+  padding: 12px 16px;
+}
+
+.menu__link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+  color: #757575;
+  padding: 12px 8px;
+}
+
+.menu__link.active {
+  color: #4258f4;
+  border-bottom: 2px solid #4258f4;
+}
+
+.menu__link:not(.active) {
+  border-bottom: 2px solid transparent;
+}
+
+.menu__section.right {
+  margin-right: 4px;
+}
+
+.menu__section.right .menu__icon {
+  padding: 12px;
+}
+
+.menu__profile {
+  padding: 4px;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+
+.menu__avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.menu__avatar--frame {
+  position: absolute;
+  right: 0;
+  top: 0;
 }
