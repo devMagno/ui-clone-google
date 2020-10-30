@@ -15,7 +15,7 @@ O projeto UI Clone da página inicial do Google foi desenvolvido durante um tuto
 ---
 
 ## 🖥️ Demonstração
-[![UI Clone: Google](https://i.imgur.com/eOZqhzI.png "Clique para acessar o projeto")](https://devmagno.github.io/ui-clone-google/ "Clique para acessar o projeto")   
+[![UI Clone: Google](https://i.imgur.com/8VQiThZ.png "Clique para acessar o projeto")](https://devmagno.github.io/ui-clone-google/ "Clique para acessar o projeto")   
 
 Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/ui-clone-google/).
 
