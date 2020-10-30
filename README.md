@@ -4,7 +4,7 @@
 </p>
 
 ## 📖 Sobre   
-O projeto UI Clone da página inicial do Google foi desenvolvido durante um tutorial da [Rocketseat](https://www.youtube.com/c/RocketSeat/videos) (projeto original por [Guilherme Rodz](https://github.com/guilhermerodz)) para fins de estudo. O projeto foi desenvolvido utilizando a abordagem **mobile first** para criação do layout, juntamente com a utilização de **media queries** para um design responsivo, além da **metodologia [BEM](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)** (Block Element Modifier) para nomeação das classes em CSS.
+O projeto UI Clone da página inicial do Google foi desenvolvido durante um tutorial da [Rocketseat](https://www.youtube.com/c/RocketSeat/videos) (projeto original por [Guilherme Rodz](https://github.com/guilhermerodz)) para fins de estudo. O projeto foi desenvolvido utilizando a abordagem **mobile first** para criação do layout, juntamente com a utilização de **media queries** para um design responsivo, além da **metodologia [BEM](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)** (Block Element Modifier) para nomeação das classes em CSS. Decidi ir um pouco além do design proposto para garantir que ficasse mais semelhante à página do Google: melhorei a responsividade na versão desktop, adicionei interações de hover, alterei as imagens, alterei os estilos da barra de pesquisa e adicionei os botões de pesquisa.
 
 ---
 
